@@ -1,6 +1,6 @@
 # Supabase Storage with Expo
 
-Learn how to use ### Supabase Storage, ### Expo, and ### Expo Image Picker to upload, view, and delete images in your mobile application.
+Learn how to use **Supabase Storage**, **Expo**, and **Expo Image Picker** to upload, view, and delete images in your mobile application.
 
 This repository contains the example code accompanying the full tutorial.
 
