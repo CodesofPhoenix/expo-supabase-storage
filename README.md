@@ -34,7 +34,7 @@ Correctly configured policies help prevent unauthorized users from accessing or 
 
 The required Storage policies are explained in the full tutorial, including how to configure access for the operations demonstrated in the example.
 
-## Follow the [tutorial](https://www.codesofphoenix.com/articles/supabase/storage-with-expo) for Storage policy configuration
+## Follow the tutorial for Storage policy configuration
 
 Security note: A Supabase publishable key is intended for client-side use, but it does not replace proper access controls. Never expose your service_role key or other secret credentials in your Expo application or public repository.
 
@@ -45,7 +45,7 @@ Configure your Supabase project URL and publishable key.
 Create and configure your Storage bucket.
 Follow the full tutorial to integrate the example and configure the required Storage policies.
 
-See the full tutorial for detailed setup and implementation instructions.
+See the [full tutorial](https://www.codesofphoenix.com/articles/supabase/storage-with-expo) for detailed setup and implementation instructions.
 
 ## Technologies Used
 Expo  
